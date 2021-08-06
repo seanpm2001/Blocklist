@@ -31,6 +31,10 @@ This is the main blocklist for this project. For now, there is no automated way 
 
 [SeansLifeArchive_Extras_SexualityCenter](https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter/)
 
+### Not included
+
+[GeniBlock](https://github.com/seanpm2001/GeniBlock)
+
 ## Erotica blocks
 
 [SNU Erotica](https://github.com/seanpm2001/SNU_2D_Erotica/)
@@ -109,6 +113,17 @@ This is the main blocklist for this project. For now, there is no automated way 
 
 [https://github.com/seanpm2001/SNU_2D_Beliefs](https://github.com/seanpm2001/SNU_2D_Beliefs/)
 
+## Gists
+
+[Political chapter](https://gist.github.com/seanpm2001/907e1689442ce3753024de9f441188b7/)
+
+[Sexuality chapter](https://gist.github.com/seanpm2001/f099c04b7f56cc933edf73d4fab0310b/)
+
+### Not included
+
+[My current experience with GitHub](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3/)
+Blocked users
+
 ## Other
 
 [https://github.com/SNU-TerrorBay](https://github.com/SNU-TerrorBay/)
@@ -135,11 +150,11 @@ A curated blocklist for blocking certain content of mine when needed.
 
 - [ ] Get more links for individual forks/block from the source
 
-- [ ] Add support for Gists
+- [x] Add support for Gists
 
 - [ ] Find any other projects that may have been missed.
 
-**Total Progress:** `025.000%`
+**Total Progress:** `050.000%`
 
 ***
 
@@ -155,17 +170,26 @@ You shouldn't block GitHub or my account altogether, that would be unfair, cruel
 
 ***
 
+## Other notes
+
+I don't block any users, I just ignore them if they bug me too much
+
+***
+
 ## File info
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `1 (Thursday, August 5th 2021 at 7:56 pm)`
+**File version:** `2 (Friday, August 6th 2021 at 4:54 pm)`
 
-**Line count (including blank lines and compiler line):** `229`
+**Line count (including blank lines and compiler line):** `283`
 
 ***
 
 ## File history
+
+<details>
+  <summary><H4>This section has been collapsed for readability. Click/tap here to expand/collapse the file history section</H4></summary>
 
 **Version 1 (Thursday, August 5th 2021 at 7:56 pm)**
 
@@ -209,13 +233,43 @@ You shouldn't block GitHub or my account altogether, that would be unfair, cruel
 
 > * No other changes in version 1
 
-**Version 2 (Coming soon)**
+**Version 2 (Friday, August 6th 2021 at 4:54 pm)**
+
+> Changes:
+
+> * Updated the sexual blocklist
+
+> * Updated the political blocklist
+
+> * Added the Gist blocklist
+
+> * Added the other notes section
+
+> * Updated the file history section
+
+> * Updated the footer section
+
+> * Updated the TODO section
+
+> * No other changes in version 2
+
+**Version 3 (Coming soon)**
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+**Version 4 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
+
+</details>
 
 ***
 

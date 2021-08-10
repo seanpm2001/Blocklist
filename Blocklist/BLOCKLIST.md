@@ -27,7 +27,9 @@ This is the main blocklist for this project. For now, there is no automated way 
 
 [SNU-Porn.github.io](https://github.com/SNU-Porn/SNU-Porn.github.io/)
 
-> [https://snu-porn.github.io/](https://snu-porn.github.io/)
+> [https://github.com/SNU-Porn/SNU-Porn.github.io](https://github.com/SNU-Porn/SNU-Porn.github.io/)
+
+> > [https://snu-porn.github.io/](https://snu-porn.github.io/)
 
 [SeansLifeArchive_Extras_SexualityCenter](https://github.com/seanpm2001/SeansLifeArchive_Extras_SexualityCenter/)
 
@@ -39,9 +41,9 @@ This is the main blocklist for this project. For now, there is no automated way 
 
 [SNU Erotica](https://github.com/seanpm2001/SNU_2D_Erotica/)
 
-[SNU-Erotica.github.io](https://github.com/SNU-Erotica/SNU-Erotica.github.io/)
+> [SNU-Erotica.github.io](https://github.com/SNU-Erotica/SNU-Erotica.github.io/)
 
-> [https://snu-erotica.github.io/](https://snu-erotica.github.io/)
+> > [https://snu-erotica.github.io/](https://snu-erotica.github.io/)
 
 ## Political blocks
 
@@ -61,7 +63,7 @@ This is the main blocklist for this project. For now, there is no automated way 
 
 [SeansAudioDB](https://github.com/seanpm2001/SeansAudioDB/)
 
-[SeansLifeArchive_Extras_VIdeoDirectory](https://github.com/seanpm2001/SeansLifeArchive_VideoDirectory/)
+[SeansLifeArchive_Extras_VideoDirectory](https://github.com/seanpm2001/SeansLifeArchive_VideoDirectory/)
 
 [Hatium](https://github.com/Hatium/Hatium/)
 
@@ -111,7 +113,11 @@ This is the main blocklist for this project. For now, there is no automated way 
 
 [https://github.com/SNU-Beliefs](https://github.com/SNU-Beliefs/)
 
-[https://github.com/seanpm2001/SNU_2D_Beliefs](https://github.com/seanpm2001/SNU_2D_Beliefs/)
+[https://github.com/seanpm2001/SNU_2D_Beliefs/](https://github.com/seanpm2001/SNU_2D_Beliefs/)
+
+> [https://github.com/SNU-Beliefs/SNU-Beliefs.github.io/](https://github.com/SNU-Beliefs/SNU-Beliefs.github.io/)
+
+> > [https://snu-beliefs.github.io/](https://snu-beliefs.github.io/)
 
 ## Gists
 
@@ -180,9 +186,9 @@ I don't block any users, I just ignore them if they bug me too much
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `2 (Friday, August 6th 2021 at 4:54 pm)`
+**File version:** `3 (Monday, August 9th 2021 at 7:24 pm)`
 
-**Line count (including blank lines and compiler line):** `283`
+**Line count (including blank lines and compiler line):** `315`
 
 ***
 
@@ -253,11 +259,19 @@ I don't block any users, I just ignore them if they bug me too much
 
 > * No other changes in version 2
 
-**Version 3 (Coming soon)**
+**Version 3 (Monday, August 9th 2021 a 7:24 pm)**
+
+_I forgot to do this yesterday._
 
 > Changes:
 
-> * Coming soon
+> * Updated the blocklist, adding 2 new links, and fixing the ordering syntax
+
+> * Updated the file history section
+
+> * Updated the file info section
+
+> * Updated the footer section
 
 > * No other changes in version 3
 
@@ -269,6 +283,22 @@ I don't block any users, I just ignore them if they bug me too much
 
 > * No other changes in version 4
 
+**Version 5 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 5
+
+**Version 6 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 6
+
 </details>
 
 ***
@@ -276,6 +306,8 @@ I don't block any users, I just ignore them if they bug me too much
 ## Footer
 
 You have reached the end of this file.
+
+( [Back to top](#Blocklist) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) )
 
 ### EOF
 

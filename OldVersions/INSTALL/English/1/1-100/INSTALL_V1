@@ -1,0 +1,32 @@
+---
+Installing this Blocklist project by @seanpm2001
+---
+
+<!--
+
+This project currently doesn't have to be installed to be viewed, and currently doesn't require installation, although it requires that you have an active network filtering software available that you have access to, and can add rules. Unfortunately at the moment, blocks have to be added manually, unless you have your own way of automation.
+
+If you want to load the documentation for this project, you will need to have a markdown viewer. See more below. Yoy may also want to have YAML 1.1 or later installed.
+
+The current included languages include:
+
+> Markdown
+
+> YAML 1.1
+
+For those who don't have access to a source code editor, or a markdown viewer, plain text versions are on the way.
+
+If you want to view the image files, the majority of files are in PNG format. Make sure your computer can handle images of 2560x1440/2560x1080 resolution well, and that your computer can handle JPG files.
+
+Some image files are in other formats, such as SVG, and JPG. You will need support for viewing these files to view these files.
+
+Some included files are in Markdown format (*.md) for best viewing, you should use a markdown viewer/markdown editor.
+
+Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
+!-->
+
+Install instructions need to be added manually.
+
+---
+Install instructions file version: 1 (Friday, 2021 September 17th at 6:07 pm)
+---

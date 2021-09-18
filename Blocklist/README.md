@@ -13,6 +13,8 @@ This is the main blocklist for this project. For now, there is no automated way 
 
 [StartFsck](https://github.com/seanpm2001/StartFsck/)
 
+[SNU / 2D / Programming Tools / IDE / BrainFuck](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Brainfuck/)
+
 ### Not included:
 
 [What the FLoC](https://github.com/seanpm2001/What-the-FLoC/)
@@ -67,6 +69,10 @@ This is the main blocklist for this project. For now, there is no automated way 
 
 [Hatium](https://github.com/Hatium/Hatium/)
 
+[What the FLoC](https://github.com/seanpm2001/What-the-FLoC/)
+
+[GeniBlock](https://github.com/seanpm2001/GeniBlock)
+
 ## Projects with sexual humor
 
 [FBI Roleplay Simulator](https://github.com/FBI-Roleplay-Simulator/FBI_RoleplaySimulator/)
@@ -103,6 +109,10 @@ This is the main blocklist for this project. For now, there is no automated way 
 
 [https://github.com/SNU-Beliefs](https://github.com/SNU-Beliefs/)
 
+[https://github.com/Seanpm2001-Brainfuck-lang](https://github.com/Seanpm2001-Brainfuck-lang/)
+
+[https://github.com/What-the-FLoC](https://github.com/What-the-FLoC/)
+
 ## Religion
 
 [https://github.com/seanpm2001/The-Existential-Index](https://github.com/seanpm2001/The-Existential-Index/)
@@ -129,6 +139,16 @@ This is the main blocklist for this project. For now, there is no automated way 
 
 [My current experience with GitHub](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3/)
 Blocked users
+
+### Advisories
+
+[SNU Programming Tools](https://github.com/seanpm2001/SNU_2D_ProgrammingTools) - Links to brainf*** IDE uncensored
+
+[GitHub organization info](https://github.com/seanpm2001/GitHub_Organization_Info) - Links to brainf*** IDE uncensored
+
+[Code Distancing](https://github.com/seanpm2001/Code-distancing) - Links to brainf*** IDE uncensored
+
+[Seanpm2001/Seanpm2001](https://github.com/seanpm2001/seanpm2001) - Status posts contain text content of various subjects, including political, vulgar, and sexual, although not obscene
 
 ## Other
 
@@ -186,9 +206,9 @@ I don't block any users, I just ignore them if they bug me too much
 
 **File type:** `Markdown document (*.md)`
 
-**File version:** `3 (Monday, August 9th 2021 at 7:24 pm)`
+**File version:** `4 (Friday, 2021 September 17th at 6:45 pm)`
 
-**Line count (including blank lines and compiler line):** `315`
+**Line count (including blank lines and compiler line):** `357`
 
 ***
 
@@ -275,11 +295,17 @@ _I forgot to do this yesterday._
 
 > * No other changes in version 3
 
-**Version 4 (Coming soon)**
+**Version 4 (Friday, 2021 September 17th at 6:45 pm)**
 
 > Changes:
 
-> * Coming soon
+> * Updated the blocklist, adding several new links
+
+> * Updated the file history section
+
+> * Updated the file info section
+
+> * Updated the footer section
 
 > * No other changes in version 4
 
@@ -299,6 +325,22 @@ _I forgot to do this yesterday._
 
 > * No other changes in version 6
 
+**Version 7 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 7
+
+**Version 8 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 8
+
 </details>
 
 ***
@@ -307,7 +349,7 @@ _I forgot to do this yesterday._
 
 You have reached the end of this file.
 
-( [Back to top](#Blocklist) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) )
+( [Back to top](#Blocklist) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | | [Exit to Safe.DuckDuckGo.com](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ### EOF
 

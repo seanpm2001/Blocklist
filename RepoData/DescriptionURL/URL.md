@@ -1,1 +1,1 @@
-https://github.com/seanpm2001/blocklist
+https://github.com/seanpm2001/Blocklist/tree/main/Blocklist

@@ -158,6 +158,8 @@ This is the main blocklist for this project. For now, there is no automated way 
 
 [StartFsck](https://github.com/seanpm2001/StartFsck/)
 
+[SNU / 2D / Programming Tools / IDE / BrainFuck](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Brainfuck/)
+
 ### Not included:
 
 [What the FLoC](https://github.com/seanpm2001/What-the-FLoC/)
@@ -210,6 +212,10 @@ This is the main blocklist for this project. For now, there is no automated way 
 
 [Hatium](https://github.com/Hatium/Hatium/)
 
+[What the FLoC](https://github.com/seanpm2001/What-the-FLoC/)
+
+[GeniBlock](https://github.com/seanpm2001/GeniBlock)
+
 ## Projects with sexual humor
 
 [FBI Roleplay Simulator](https://github.com/FBI-Roleplay-Simulator/FBI_RoleplaySimulator/)
@@ -246,6 +252,10 @@ This is the main blocklist for this project. For now, there is no automated way 
 
 [https://github.com/SNU-Beliefs](https://github.com/SNU-Beliefs/)
 
+[https://github.com/Seanpm2001-Brainfuck-lang](https://github.com/Seanpm2001-Brainfuck-lang/)
+
+[https://github.com/What-the-FLoC](https://github.com/What-the-FLoC/)
+
 ## Religion
 
 [https://github.com/seanpm2001/The-Existential-Index](https://github.com/seanpm2001/The-Existential-Index/)
@@ -267,7 +277,16 @@ This is the main blocklist for this project. For now, there is no automated way 
 ### Not included
 
 [My current experience with GitHub](https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3/)
-Blocked users
+
+### Advisories
+
+[SNU Programming Tools](https://github.com/seanpm2001/SNU_2D_ProgrammingTools) - Links to brainf*** IDE uncensored
+
+[GitHub organization info](https://github.com/seanpm2001/GitHub_Organization_Info) - Links to brainf*** IDE uncensored
+
+[Code Distancing](https://github.com/seanpm2001/Code-distancing) - Links to brainf*** IDE uncensored
+
+[Seanpm2001/Seanpm2001](https://github.com/seanpm2001/seanpm2001) - Status posts contain text content of various subjects, including political, vulgar, and sexual, although not obscene
 
 ## Other
 
@@ -461,7 +480,7 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file] A(/PROJECT_LANG_1.htm)
+[Project language file A](/PROJECT_LANG_1.htm)
 
 [Join the discussion on GitHub](https://github.com/seanpm2001/Blocklist/discussions/)
 
@@ -479,17 +498,17 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 ## About README
 
-File type: `Markdown (*.md)`
+**File type:** `Markdown (*.md *.mkd *.markdown)`
 
-File version: `1 (Friday, August 6th 2021 at 5:27 pm)`
+**File version:** `2 (Friday, 2021 September 17th at 6:38 pm)`
 
-Line count: `0,621`
+**Line count:** `0,662`
 
 ***
 
 ## README version history
 
-Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
+**Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)**
 
 > Changes:
 
@@ -529,7 +548,7 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * No other changes in version 0.1
 
-Version 0.11 (Friday, July 16th 2021 at 9:20 pm)
+**Version 0.11 (Friday, July 16th 2021 at 9:20 pm)**
 
 > Changes:
 
@@ -545,7 +564,7 @@ Version 0.11 (Friday, July 16th 2021 at 9:20 pm)
 
 > * No other changes in version 0.11
 
-Version 0.11B (Friday, July 16th 2021 at 9:25 pm)
+**Version 0.11B (Friday, July 16th 2021 at 9:25 pm)**
 
 > Changes:
   
@@ -557,7 +576,7 @@ Version 0.11B (Friday, July 16th 2021 at 9:25 pm)
 
 > * No other changes in version 0.11B
 
-Version 0.12A (Thursday, July 22nd 2021 at 6:26 pm)
+**Version 0.12A (Thursday, July 22nd 2021 at 6:26 pm)**
 
 > Changes:
   
@@ -579,7 +598,7 @@ Version 0.12A (Thursday, July 22nd 2021 at 6:26 pm)
 
 > * No other changes in version 0.11B
 
-Version 1 (Friday, August 6th 2021 at 5:27 pm)
+**Version 1 (Friday, August 6th 2021 at 5:27 pm)**
 
 > Changes:
 
@@ -601,19 +620,41 @@ Version 1 (Friday, August 6th 2021 at 5:27 pm)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+**Version 2 (Friday, 2021 September 17th at 6:38 pm)**
+
+> Changes:
+
+> * Updated the blocklist
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * Updated the footer
+
+> * No other changes in version 2
+
+**Version 3 (Coming soon)**
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+**Version 4 (Coming soon)**
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
 ## You have reached the end of the README file
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to DuckDuckGo](https://duckduckgo.com) )
+( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com) | [Exit to Safe.DuckDuckGo](https://safe.duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) | [Exit to Swisscows](https://www.swisscows.com/) )
 
 ### EOF
 

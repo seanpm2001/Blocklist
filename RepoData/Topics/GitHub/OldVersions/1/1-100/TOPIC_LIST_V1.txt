@@ -1,0 +1,14 @@
+github
+yaml
+blacklist
+block
+wiki
+gplv3
+blocklist
+yml
+blocks
+md
+txt
+gpl3
+blocked
+seanpm2001-blocklist
